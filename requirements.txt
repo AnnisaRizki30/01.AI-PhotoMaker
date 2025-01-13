@@ -8,4 +8,4 @@ accelerate==0.31.0
 safetensors
 omegaconf
 peft
-gradio
+gradio==3.50.0
