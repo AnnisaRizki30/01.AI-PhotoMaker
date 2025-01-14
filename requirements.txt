@@ -9,3 +9,5 @@ safetensors
 omegaconf
 peft
 gradio==3.50.0
+realesrgan==0.3.0 
+gfpgan==1.3.8
