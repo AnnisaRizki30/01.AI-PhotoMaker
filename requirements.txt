@@ -1,5 +1,6 @@
-torch==2.3.0
-torchvision==0.18.0
+torch==2.0.1
+torchvision==0.15.2
+torchaudio==2.0.2
 diffusers==0.25.0
 transformers==4.36.2
 huggingface-hub==0.24.7
