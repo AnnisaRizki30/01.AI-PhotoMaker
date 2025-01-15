@@ -5,8 +5,8 @@ transformers==4.36.2
 huggingface-hub==0.24.7
 numpy==1.26.4
 accelerate==0.31.0
-safetensors
-omegaconf
+omegaconf==2.3.0
+safetensors==0.3.2
 peft
 gradio==3.50.0
 realesrgan==0.3.0 
