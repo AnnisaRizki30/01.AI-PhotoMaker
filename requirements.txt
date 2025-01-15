@@ -1,9 +1,9 @@
 torch==2.3.0
-torchvision
+torchvision==0.18.0
 diffusers==0.25.0
 transformers==4.36.2
 huggingface-hub==0.24.7
-numpy
+numpy==1.26.4
 accelerate==0.31.0
 safetensors
 omegaconf
